@@ -28,7 +28,7 @@ git alias.nombreDelAlias "comandos a ejecutar": crea un alias y le mete diversos
 git status: muestra lo que falta commitear
 git add nombreDelFichero: prepararlo para commitear
 git add .: añade todo lo que hay en el fichero
-git commit -m nombreDelFichero: commmitearlo
+git commit -m "mensaje": commmitearlo
 git log: ver los commits
 git log graph: ver los commits mas ordenados
 git reflog: historial de cambios
